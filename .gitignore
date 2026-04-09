@@ -18,5 +18,7 @@ env/
 venv/
 ENV/
 
+doc/
+STA6636_Project_Proposal.docx
 # Uncomment to ignore datasets if they become too large
 # assets/*.csv
