@@ -1,4 +1,4 @@
-# International E-Commerce Customer Analysis
+# Ecommerce Shipping Analysis
 
 **Course:** STA 6636  
 **Group 5:** Brandon Rodriguez, Gabriel Ruiz, Jorge Corcino, Ronaldo Martinez Frias
