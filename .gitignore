@@ -18,7 +18,8 @@ env/
 venv/
 ENV/
 
-doc/
-STA6636_Project_Proposal.docx
+# Large binary doc files (proposals are in doc/Proposal/ as PDFs)
+doc/Proposal/*.docx
+
 # Uncomment to ignore datasets if they become too large
 # assets/*.csv
