@@ -128,8 +128,14 @@ The grid search identified the following optimal configuration:
 | `C`           | 10         |
 | `gamma`       | `'auto'`   |
 | `kernel`      | `'rbf'`    |
+**Cross-Validation Results (5 Folds):**
+- Fold 1: 0.7007
+- Fold 2: 0.7310
+- Fold 3: 0.7181
+- Fold 4: 0.7047
+- Fold 5: 0.7237
 
-**Best Cross-Validation Accuracy:** 0.7157
+**Best Mean CV Accuracy:** 0.7157 (± 0.0114 std)
 
 **Test Set Performance:**
 
