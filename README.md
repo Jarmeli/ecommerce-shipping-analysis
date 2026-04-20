@@ -28,7 +28,7 @@ The dataset consists of the following features:
 ## Goals
 
 1. **Classification Performance**:
-   - Predict the **customer rating** based on all other features.
+   - Predict the **Reached on time** based on all other features.
 2. **Correlation Analysis**: Identify if there is any correlation between the dataset's variables.
 3. **Variable Selection**: Determine the most relevant features for our classification problems.
 
