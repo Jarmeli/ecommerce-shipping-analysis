@@ -59,7 +59,6 @@ We use the scikit-learn `QuadraticDiscriminantAnalysis()` module, utilizing defa
 
 ## 5. Results
 
-*(Note: Run `shipping_qda.ipynb` locally and fill in your output numbers down below)*
 
 ### 5.1 Baseline Classification Performance
 
@@ -75,7 +74,6 @@ We use the scikit-learn `QuadraticDiscriminantAnalysis()` module, utilizing defa
 ![QDA Confusion Matrix](../../plots/qda_plots/confusion_matrix_qda.png)
 
 ### 5.3 ROC Curve (Baseline)
-*(Note: Expected AUC plot bounding the TPR and FPR probabilities computed with `predict_proba()`)*
 
 ![QDA ROC Curve](../../plots/qda_plots/roc_curve_qda.png)
 

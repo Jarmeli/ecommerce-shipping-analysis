@@ -50,6 +50,11 @@ To evaluate our classification approach, we will use a **k-fold cross-validation
 
 ## Repository Structure
 
-- `assets/` - Contains the dataset (`Train.csv`).
-- `doc/` - Contains project documentation and proposals (`Project_Proposal.pdf`, `STA6636_Project_Proposal.docx`).
-- `notebook/` - Contains Jupyter notebooks for our analysis (`shipping.ipynb`).
+- `assets/` — Contains the dataset (`Train.csv`).
+- `doc/Proposal/` — Project proposal (`Project_Proposal.pdf`).
+- `doc/Report/` — Analysis reports (`SVM_Classification_Report.md`, `QDA_Baseline_Report.md`).
+- `notebook/` — Jupyter notebooks for our analysis:
+  - `shipping.ipynb` — Exploratory data analysis.
+  - `shipping_svm.ipynb` — SVM classification pipeline.
+  - `shipping_qda.ipynb` — QDA baseline classification pipeline.
+- `plots/` — Saved evaluation plots (confusion matrices, ROC curves, heatmaps).
